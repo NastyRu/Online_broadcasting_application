@@ -1,4 +1,4 @@
-# Online_broadcasting_system
+# Online_broadcasting_application
 
 The purpose of this work is to develop a software package for broadcasting video images from the camera of a mobile device on the Android platform to a desktop application of a computer running Windows.
 To achieve this goal, the following tasks are set:
